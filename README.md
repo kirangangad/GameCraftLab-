@@ -25,4 +25,4 @@ Because why settle for being good at one language when you can be *wonderfully a
 
 ---
 
-💡 *Stay tuned for more games, more chaos, and more creative coding experiments!* 🚀
+💡 *Stay tuned for more games, more chaos, and more creative coding experiments_!* 🚀
