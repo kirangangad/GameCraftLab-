@@ -11,7 +11,7 @@ Because why be good at one language when you can be mediocre at all? 😄
 Hi, I’m **Kiran Gangad** – a curious coder who believes games are the best way to learn (and sometimes break) programming languages.<br>  
 I enjoy experimenting with different tech stacks, mixing logic with creativity, and occasionally battling the mighty bug monster. 🐛⚔️  
 
---- 
+---  
 
 ## 🕹 About This Repository – *GameCraftLab*  
 **GameCraftLab** is my personal playground where I build and collect games in different programming languages — from Python to Java, C to JavaScript, and beyond.<br>
